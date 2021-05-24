@@ -10,7 +10,7 @@
   "author": "Pedro Briceño Larios",
   "dependencies": {
     "bootstrap": "^5.0.1"
-  }, 
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.14.3",
