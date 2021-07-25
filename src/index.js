@@ -1,5 +1,8 @@
-import "./styles/index.scss";
 import "bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles/index.scss";
 import saludar from "./modules/example";
 
-console.log(saludar());
+const saludo = "hola mundo";
+
+console.log({ saludar, saludo });
